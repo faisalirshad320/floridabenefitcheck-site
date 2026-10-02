@@ -140,7 +140,7 @@ FOOTER = f'''<footer class="bg-slate-900 text-slate-300 no-print" role="contenti
 <a href="https://www.myflorida.com/accessflorida/" target="_blank" rel="noopener noreferrer" class="text-blue-400 hover:underline">ACCESS Florida</a> • <a href="https://www.ssa.gov/" target="_blank" rel="noopener noreferrer" class="text-blue-400 hover:underline">SSA.gov</a></div></div>
 </div>
 <div class="border-t border-slate-800 py-6 px-4"><div class="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-3">
-<p class="text-xs text-slate-500">© 2026 FloridaBenefitCheck.com — Not affiliated with any government agency. For informational purposes only.</p>
+<p class="text-xs text-slate-500">© 2026 FloridaBenefitCheck.com — operated by <a href="https://www.omniaventures.org/" class="hover:text-white">Omnia Ventures</a>. Not affiliated with any government agency. For informational purposes only.</p>
 <p class="text-xs text-slate-600">Data updated {UPDATED_MONTH} • Sources: USDA FNS, Florida DCF, SSA.gov, HHS</p></div></div>
 </footer>'''
 
